@@ -4,7 +4,7 @@ How to install PhantomJS on Ubuntu
 
 # How to install PhantomJS on Ubuntu
 
-Version: `1.9.8`
+Version: `2.1.1`
 
 Platform: `x86_64`
 
@@ -22,7 +22,7 @@ Install these packages needed by PhantomJS to work correctly.
 Get it from the [PhantomJS website](http://phantomjs.org/).
 
 	cd ~
-	export PHANTOM_JS="phantomjs-1.9.8-linux-x86_64"
+	export PHANTOM_JS="phantomjs-2.1.1-linux-x86_64"
 	wget https://bitbucket.org/ariya/phantomjs/downloads/$PHANTOM_JS.tar.bz2
 	sudo tar xvjf $PHANTOM_JS.tar.bz2
 
